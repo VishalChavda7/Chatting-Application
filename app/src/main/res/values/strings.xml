@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vishal\'s WhatsApp</string>
+    <string name="password">Enter Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="email">Enter Email</string>
+    <string name="user">Enter User Name</string>
+    <string name="todo">TODO</string>
+    <string name="t">TODO</string>
+    <string name="tt">TODO</string>
+    <string name="aha">Already Have Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192669079911",
+    "project_id": "vishal-s-whatsapp",
+    "storage_bucket": "vishal-s-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192669079911:android:983d2f61b7b4cbfd3877c2",
+        "android_client_info": {
+          "package_name": "com.example.vishalswhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192669079911-j2bmuakfumjqllcdvl3gons1qlva4600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBreWPx-zaWWFRbavW_AQwGpStCrxEcpAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192669079911-j2bmuakfumjqllcdvl3gons1qlva4600.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
